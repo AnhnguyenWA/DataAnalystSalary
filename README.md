@@ -1,3 +1,5 @@
+
+
 ## Data Analytic Jobs Salaries 2020-2023
 
 The advent of big data and the growing importance of data-driven strategies across industries have made data analysis an increasingly critical function. Hence, this project aims to analyze and understand the salary trends for Data Analyst positions over the past few years, a period marked by significant economic and technological shifts.
